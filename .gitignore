@@ -1,0 +1,32 @@
+/.metadata/
+# Maven build output
+/target/
+
+# Eclipse/IntelliJ IDEA project files (IDE-specific)
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Maven Wrapper files (optional, if you don't want them to be pushed)
+mvnw
+mvnw.cmd
+.mvn/
+
+# Log files
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore build output and unnecessary binaries
+*.jar
+*.war
+*.ear
+*.class
+
+# Allow properties and YAML files (do not ignore them)
+# application.properties
+# application.yml
